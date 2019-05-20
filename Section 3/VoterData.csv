@@ -1,0 +1,39 @@
+AgeGroup,Education,Registered,VotedFor
+"[60, 70)",High school,1,Trump (R)
+"[18, 30)",Less than high school,0,
+"[80, 90)",Graduate,1,Clinton (D)
+"[40, 50)",Graduate,1,
+"[70, 80)",Bachelors,1,Clinton (D)
+"[18, 30)",High school,1,Stein (G)
+"[60, 70)",High school,1,Clinton (D)
+"[50, 60)",Less than high school,1,Clinton (D)
+"[30, 40)",Bachelors,1,Trump (R)
+"[60, 70)",Less than high school,1,Clinton (D)
+"[30, 40)",Graduate,1,Clinton (D)
+"[18, 30)",Associate,1,Trump (R)
+"[40, 50)",Bachelors,1,Clinton (D)
+"[30, 40)",High school,1,Johnson (L)
+"[18, 30)",Associate,0,Trump (R)
+"[40, 50)",High school,1,Trump (R)
+"[18, 30)",High school,1,Johnson (L)
+"[30, 40)",Graduate,1,Clinton (D)
+"[50, 60)",Associate,0,
+"[70, 80)",High school,1,
+"[30, 40)",Graduate,1,Clinton (D)
+"[60, 70)",High school,1,
+"[40, 50)",Bachelors,1,Trump (R)
+"[50, 60)",High school,0,
+"[30, 40)",Associate,1,Clinton (D)
+"[70, 80)",High school,1,Clinton (D)
+"[50, 60)",Associate,1,Clinton (D)
+"[40, 50)",High school,1,Johnson (L)
+"[50, 60)",High school,1,Clinton (D)
+"[40, 50)",Graduate,1,Clinton (D)
+"[50, 60)",Associate,1,Trump (R)
+"[50, 60)",Graduate,1,Clinton (D)
+"[40, 50)",Bachelors,1,Trump (R)
+"[18, 30)",High school,1,Clinton (D)
+"[30, 40)",Graduate,1,Clinton (D)
+"[40, 50)",Graduate,1,Clinton (D)
+"[60, 70)",Graduate,1,
+"[60, 70)",High school,1,Trump (R)

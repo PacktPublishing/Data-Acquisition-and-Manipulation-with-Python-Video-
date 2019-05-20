@@ -1,0 +1,11 @@
+response.xpath('//div[@id="siteTable"]')    # Select div by XPath
+response.xpath('//div[@id="siteTable"]').css("div.link")    # Refine selection, can use CSS selectors
+response.xpath('//span[@class="nextprev"]//a')    # Select link to next page
+response.xpath('//span[@class="nextprev"]//@href')    # Get all link destinations
+response.xpath('//span[@class="nextprev"]//@href').extract_first()    # Get the string for the next page
+threads = response.xpath('//div[@id="siteTable"]').css("div.link")    # Get a list of all divs with links
+threads[0]
+threads[0].css("a.title")    # Links of class title
+threads[0].css("a.title").xpath("text()").extract_first()   # Get the link text; title of the thread
+threads[0].css("a.author").xpath("text()").extract_first()    # Thread author/submitter
+threads[0].css("div.score.unvoted").xpath("@title").extract_first()    # Number of votes
